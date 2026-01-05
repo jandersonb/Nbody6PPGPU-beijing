@@ -68,3 +68,8 @@ dkms.conf
 examples/example_1k/*
 examples/.ipynb_checkpoints
 !examples/example_1k/1k.inp
+
+# VS Code settings
+.vscode/
+*.code-workspace
+settings.json
